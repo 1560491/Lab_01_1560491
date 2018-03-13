@@ -1,12 +1,12 @@
 # Lab_01_1560491
-BT Tuần 1
-Mã Số SV: 1560491
-Tên: Nguyễn Dương Minh Tâm
-Lớp:15ck3
-Email: 1560491@student.hcmus.edu.vn
-Điện thoại: 01208961694
-Facebook: https://www.facebook.com/tamOI.274
-Thời khóa biều:
+# BT Tuần 1
+# Mã Số SV: 1560491
+# Tên: Nguyễn Dương Minh Tâm
+# Lớp:15ck3
+# Email: 1560491@student.hcmus.edu.vn
+# Điện thoại: 01208961694
+# Facebook: https://www.facebook.com/tamOI.274
+# Thời khóa biều:
 
 | Lịch       | Thứ 2 | Thứ 3          | Thứ 4           | Thứ 5     | Thứ 6               | Thứ 7 |
 |------------|-------|----------------|-----------------|-----------|---------------------|-------|
